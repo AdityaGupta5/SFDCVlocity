@@ -1,1 +1,1 @@
-#Salesforce Vlocity with Manifest !!!
+#Salesforce Vlocity with Manifest.
